@@ -1,0 +1,1 @@
+6. Elaborate the major components involved in data communication. Also discuss the causes of transmission impairment in brief.

@@ -1,0 +1,1 @@
+27. When a party makes a local telephone call to another party, is this a point-to-point or multipoint connection? Explain the answer.

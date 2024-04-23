@@ -1,0 +1,1 @@
+20.  Assuming that all routers and hosts are working properly and that all software in both is free of all errors, is there any chance,however small, that a packet will be delivered to the wrong destination?

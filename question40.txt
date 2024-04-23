@@ -1,0 +1,4 @@
+41. Consider a simple application-level protocol built on top of UDP that allows a client to retrieve a file from a remote server residing at awell-known address. The client first sends a request with a file name, and the server responds with a sequence of data packets
+containing different parts of the requested file. To ensure reliability and sequenced delivery, client and server use a stop-and-wait
+protocol. Ignoring the obvious performance issue, do you see a problem with this protocol? Think carefully about the possibility of
+processes crashing.

@@ -1,0 +1,2 @@
+24. The following character encoding is used in a data link protocol: A: 01000111 B: 11100011 FLAG: 01111110 ESC: 11100000 Show thebit sequence transmitted (in binary) for the four-character frame A B ESC FLAG when each of the following framing methods is used:
+(a) Byte count. (b) Flag bytes with byte stuffing. (c) Starting and ending flag bytes with bit stuffing.

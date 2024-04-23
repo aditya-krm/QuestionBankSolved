@@ -1,0 +1,1 @@
+26. Datagram fragmentation and reassembly are handled by IP and are invisible to TCP. Does this mean that TCP does not have to worryabout data arriving in the wrong order?

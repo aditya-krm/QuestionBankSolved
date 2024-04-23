@@ -1,0 +1,2 @@
+25. Both UDP and TCP use port numbers to identify the destination entity when delivering a message. Give two reasons why theseprotocols invented a new abstract ID (port numbers), instead of using process IDs, which already existed when these protocols were
+designed.

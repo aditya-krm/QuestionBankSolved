@@ -1,0 +1,5 @@
+31. a. Station A uses 32 byte packets to transmit messages to Station B using a sliding window protocol. The round tripdelay between A and B is 80 milliseconds and the bottleneck bandwidth on the path between A and B is 128 kbps.
+What is the optimal window size that A should use? [5]
+b. Assume that, in a Stop-and-Wait ARQ system, the bandwidth of the line is 1 Mbps, and 1 bit takes 20 ms to make a
+round trip. What is the bandwidth-delay product? If the system data frames are 1000 bits in length, what is the
+utilization percentage of the link? [5]

@@ -1,0 +1,1 @@
+15. In analysing ALOHA, we use only one parameter, time; in analysing CSMA, we use two parameters, space and time. Can you explain the reason?

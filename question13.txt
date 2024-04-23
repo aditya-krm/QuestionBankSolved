@@ -1,0 +1,7 @@
+13. Performance is inversely related to delay. When you use the Internet, which of the following applications are more sensitive to delay?Justify your answer.
+a. Sending an e-mail
+b. Copying a file
+c. Surfing the Internet
+14.
+a. We send a digital signal from one station on a LAN to another station. Is this baseband or broadband transmission?
+b. We modulate several voice signals and send them through the air. Is this baseband or broadband transmission?

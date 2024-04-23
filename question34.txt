@@ -1,0 +1,3 @@
+35.We have four sources, each creating 250 characters per second. If the interleaved unit is a character and 1 synchronizing bit is added
+to each frame, find (a) the data rate of each source, (b) the duration of each character in each source, (c) the frame rate, (d) the
+duration of each frame, (e) the number of bits in each frame, and (f) the data rate of the link.

@@ -1,0 +1,1 @@
+46. Design two simple algorithms for bit-stuffing. The first adds bits at the sender; the second removes bits at the receiver.

@@ -1,0 +1,3 @@
+7. Write short notes on the below:Firewall
+POP3 vs. IMAP
+ARP vs. RARP

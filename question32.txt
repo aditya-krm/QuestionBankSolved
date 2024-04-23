@@ -1,0 +1,1 @@
+33.  Consider the given network, consisting of 4 routers. The cost of edges are also mentioned. Find the unused links for Distance VectorRouting algorithm. What will be the final routing tables for all routers?

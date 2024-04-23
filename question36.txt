@@ -1,0 +1,1 @@
+37.  Design a bidirectional algorithm for the Simplest and Stop & Wait Protocol using piggybacking. Note that the both parties need to usethe same algorithm

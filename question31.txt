@@ -1,0 +1,6 @@
+32.  a. Host A wants to send 10 frames to Host B. The host uses SR-ARQ. How many frames are transmitted by Host A if every 6thframe is lost? Assume the timer is appropriately large enough that we do not run into the same problems we ran into for the
+problem solved in class.
+Compare the number of transmissions for SR-ARQ and Go back 4 ARQ. [6]
+b. In SR protocol, suppose frames through 0 to 4 have been transmitted. Now, imagine that 0 times out, 5 (a new frame) is
+transmitted, 1 times out, 2 times out and 6 (another new frame) is transmitted.
+At this point, what will be the outstanding packets in sender’s window? [4]

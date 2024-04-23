@@ -1,0 +1,3 @@
+29.  a. A periodic signal has a bandwidth of 20 Hz. The highest frequency is 60 Hz. What is the lowest frequency? Draw the spectrum if thesignal contains all frequencies of the same amplitude.
+b. If a periodic signal is decomposed into five sine waves with frequencies of 100, 300, 500, 700, and 900 Hz, what is its bandwidth?
+Draw the spectrum, assuming all components have a maximum amplitude of 10 V. [5+5]

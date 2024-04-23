@@ -1,0 +1,5 @@
+38. Create a system of three LANs with four bridges. The bridges (B1 to B4) connect the LANs as follows:a. B1 connects LAN 1 and LAN 2.
+b. B2 connects LAN 1 and LAN 3.
+c. B3 connects LAN 2 and LAN 3.
+d. B4 connects LAN 1, LAN 2, and LAN 3.
+Choose B1 as the root bridge. Show the forwarding and blocking ports, after applying the spanning tree procedure.

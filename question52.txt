@@ -1,0 +1,5 @@
+53. An ISP is granted a block of addresses starting with 190.100.0.0/16 (65,536 addresses). The ISP needs to distribute these addressesto three groups of customers as follows:
+a. The first group has 64 customers; each needs 256 addresses.
+b. The second group has 128 customers; each needs 128 addresses.
+c. The third group has 128 customers; each needs 64 addresses.
+Design the sub-blocks and find out how many addresses are still available after these allocations.

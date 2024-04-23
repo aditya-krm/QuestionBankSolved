@@ -1,0 +1,1 @@
+1. Explain why most of the addresses in class A are wasted. Explain why a medium-size or large-size corporation does not want a block of class C addresses. List the classes in classful addressing.

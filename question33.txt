@@ -1,0 +1,2 @@
+34. a. In a block of addresses, we know the IP address of one host is 25.34.12.56/16. What are the first address (network address)and the last address (limited broadcast address) in this block?
+b. Compare Classful Addressing and Classless Addressing.

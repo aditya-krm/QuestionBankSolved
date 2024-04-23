@@ -1,0 +1,1 @@
+40. DHCP uses several messages such as DHCPREQUEST, DHCPDECLINE, DHCPACK, DHCPNACK, and DHCPRELEASE. Find thepurpose of these messages.

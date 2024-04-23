@@ -1,0 +1,3 @@
+21.  Consider five wireless stations, A, B, C, D, and E. Station A can communicate with all other stations. B can communicate with A, Cand E. C can communicate with A, B and D. D can communicate with A, C and E. E can communicate A, D and B. (a) When A is
+sending to B, what other communications are possible? (b) When B is sending to A, what other communications are possible? (c)
+When B is sending to C, what other communications are possible?

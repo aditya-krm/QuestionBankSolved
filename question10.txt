@@ -1,0 +1,4 @@
+10.  Discuss the relationship between below entities w.r.t. CRC:a. The size of the data-word and the size of the code-word
+b. The size of the divisor and the remainder
+c. The degree of the polynomial generator and the size of the divisor
+d. The degree of the polynomial generator and the size of the remainder

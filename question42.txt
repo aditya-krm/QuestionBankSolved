@@ -1,0 +1,1 @@
+43. Four data channels (digital), each transmitting at I Mbps, use a satellite channel of I MHz. Design an appropriate configuration, usingFDM.

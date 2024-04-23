@@ -1,0 +1,6 @@
+30.  Suppose we want to transmit the message 11001001 (P(x) = x 7 + X6 +x X3 + 1) and protect it from errors using the CRC polynomialC(x) = x 3 + 1. [4+3+3]
+Answer the below questions:
+a. Use polynomial long division to determine the message that should be transmitted.
+b. Suppose the leftmost bit of the message is inverted due to noise on the transmission link. What is the result of the receiver’s
+CRC calculation? How does the receiver know that an error has occurred?
+Give an example of the error which cannot be detected by CRC. Is there a general pattern for undetectable errors?

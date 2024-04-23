@@ -1,0 +1,1 @@
+48. Discuss Simplex, Half-duplex and Full duplex with diagram.

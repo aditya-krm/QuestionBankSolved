@@ -1,0 +1,1 @@
+54. Why subnetting is necessary? With suitable example, develop the concept of subneting in class B network.

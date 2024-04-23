@@ -1,0 +1,1 @@
+28. A firewall is a network security device, either hardware or software-based. How it monitors all incoming and outgoing traffic? Alsospecify how it accepts, rejects or drops the data packets

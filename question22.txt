@@ -1,0 +1,1 @@
+23. Why do OSPF messages propagate faster than RIP messages? What is the basis of classification for the four types of links definedby OSPF?

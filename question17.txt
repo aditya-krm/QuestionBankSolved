@@ -1,0 +1,1 @@
+18. UDP is a message-oriented protocol. TCP is a byte-oriented protocol. If an application needs to protect the boundaries of its message,which protocol should be used, UDP or TCP? Justify your answer.

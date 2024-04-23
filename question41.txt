@@ -1,0 +1,2 @@
+42. Design a hybrid topology with:a. A star backbone and three ring networks.
+b. A ring backbone and two bus networks.

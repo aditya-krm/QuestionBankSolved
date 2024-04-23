@@ -1,0 +1,5 @@
+56. An ISP is granted a block of addresses starting with 150.80.0.0/16. The ISP wants to distribute these blocks to 2600 customers asfollows.
+a. The first group has 200 medium-size businesses; each needs 128 addresses.
+b. The second group has 400 small businesses; each needs 16 addresses.
+c. The third group has 2000 households; each needs 4 addresses. Design the sub-blocks and give the slash notation for each sub
+block. Find out how many addresses are still available after these allocations.

@@ -1,0 +1,1 @@
+16. Go-Back N protocol is good for various network communications. Justify this statement.

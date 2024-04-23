@@ -1,0 +1,1 @@
+8. Why File Transfer Protocol is required? Elaborate its mechanism with block diagram.

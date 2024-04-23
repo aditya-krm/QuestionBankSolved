@@ -1,0 +1,2 @@
+19. (a) Suppose a computer sends a packet at the network layer to another computer somewhere in the Internet. The logical destinationaddress of the packet is corrupted. What happens to the packet and how can the source computer be informed of the situation?
+(b) If the data link layer can detect errors between hops, why is another checking mechanism needed at the transport layer? [5+5]

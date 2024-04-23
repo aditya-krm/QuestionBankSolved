@@ -1,0 +1,1 @@
+47. State the major difference between distance vector routing and link state routing.

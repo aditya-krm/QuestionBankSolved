@@ -1,0 +1,2 @@
+22. The performance of a client-server system is strongly influenced by two major network characteristics: the bandwidth of the networkand the latency. Give an example of a network that exhibits high bandwidth but also high latency. Then give an example of one that
+has both low bandwidth and low latency. [5+5]
