@@ -1,0 +1,1 @@
+11. Design a web page using HTML / CSS of a course registration page that contains course-related information, and user information. On submit that page must be redirected to “welcome.html” page.

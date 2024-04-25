@@ -1,0 +1,1 @@
+17. Differences between a class component and a functional component?

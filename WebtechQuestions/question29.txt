@@ -1,0 +1,1 @@
+29. Explain the components of Redux with examples.

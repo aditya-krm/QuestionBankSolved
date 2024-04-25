@@ -1,0 +1,1 @@
+40. What is the difference between an Element and a Component?

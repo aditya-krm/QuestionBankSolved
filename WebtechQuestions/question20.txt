@@ -1,0 +1,1 @@
+20. Discuss the scalability challenges in Node.js applications and strategies to address them.

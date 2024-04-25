@@ -1,0 +1,1 @@
+30. What is the difference between state and props in react?

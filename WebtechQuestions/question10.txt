@@ -1,0 +1,1 @@
+10. Consider the following and write the code to establish a connection with a MySql database. Database Name: db_student, Database user’s name: student, Database password: cse

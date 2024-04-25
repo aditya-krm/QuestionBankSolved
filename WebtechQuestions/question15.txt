@@ -1,0 +1,1 @@
+15. Discuss the event-driven architecture of Node.js, highlighting its benefits and limitations.

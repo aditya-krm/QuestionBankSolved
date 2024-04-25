@@ -1,0 +1,1 @@
+28. How to Handle Events in React? Explain with a program.

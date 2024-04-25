@@ -1,0 +1,1 @@
+38. What is a state in React?

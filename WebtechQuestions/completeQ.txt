@@ -1,0 +1,47 @@
+1. Html syntax to make a link.
+2. Define callback function in Node.js
+3. How does Node.js handle I/O operations?
+4. Difference between JSP and Servlet
+5. Difference between JSP and CGI
+6. Lifecycle of Servlet with block diagram.
+7. Lifecycle of JSP with block diagram.
+8. Container architecture of the Servlet, JSP, EJB.
+9. Design the following: A html page “login.html” contains two text input fields, on submit it is redirected to a page “account.html”
+10. Consider the following and write the code to establish a connection with a MySql database. Database Name: db_student, Database user’s name: student, Database password: cse
+11. Design a web page using HTML / CSS of a course registration page that contains course-related information, and user information. On submit that page must be redirected to “welcome.html” page.
+12. Different types of CSS (inline, embedded, external) with examples.
+13. Write down the use of nvm.
+14. Define a function in Node.js to print your name.
+15. Discuss the event-driven architecture of Node.js, highlighting its benefits and limitations.
+16. How does Node.js handle error handling? Discuss best practices.
+17. Differences between a class component and a functional component?
+18. Create a simple HTTP server using Node.js, including routing and handling requests.
+19. Write down about asynchronous programming in Node.js. Provide examples using callbacks, Promises, and async/await.
+20. Discuss the scalability challenges in Node.js applications and strategies to address them.
+21. Provide examples using callbacks, Promises, and async/await for Node.js
+22. Explore the use of clustering in Node.js for improving performance and scalability.
+23. Advantages of using Node.js for server-side development.
+24. How does Node.js manage dependencies?
+25. What are streams in Node.js? Provide examples of their usage.
+26. Describe the purpose and use of the "require" function in Node.js.
+27. Compare and contrast the use of EventEmitter and callbacks in Node.js.
+28. How to Handle Events in React? Explain with a program.
+29. Explain the components of Redux with examples.
+30. What is the difference between state and props in react?
+31. What are events in React.js?
+32. What are the limitations of React?
+33. What are the advantages of React?
+34. How do you use JSX in React JS?
+35. Discuss the popular React JS components and libraries.
+36. How does Virtual DOM work?
+37. What is the difference between Shadow DOM and Virtual DOM?
+38. What is a state in React?
+39. What are props in React?
+40. What is the difference between an Element and a Component?
+41. How to pretty print JSON with React?
+42. What are the common folder structures for React?
+43. How to use the React label element?
+44. What are the Pointer Events supported in React?
+45. How do you memorize a component?
+46. How to use styles in React?
+47. What is ReactDOMServer?

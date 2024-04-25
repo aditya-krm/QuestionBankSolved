@@ -1,0 +1,1 @@
+26. Describe the purpose and use of the "require" function in Node.js.

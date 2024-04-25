@@ -1,0 +1,1 @@
+9. Design the following: A html page “login.html” contains two text input fields, on submit it is redirected to a page “account.html”
